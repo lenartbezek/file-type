@@ -122,6 +122,10 @@ const names = {
 		'fixture-big-endian',
 		'fixture-little-endian'
 	],
+	png: [
+		'fixture',
+		'fixture-itxt'
+	],
 	tar: [
 		'fixture',
 		'fixture-v7'
